@@ -6,7 +6,7 @@
 
 <h2 align="center"> 📚 Learning </h2>
 
-<p> Currently learning HTML/CSS.
+<p> Currently learning NodeJS , POO , MongoDB , Aws , API's.
   
   <h2 align="center"> 💻 Hire me </h2>
 I'm looking for my first job, i believe i can learn more in a work environment with a team, would you like to test me? </p>
