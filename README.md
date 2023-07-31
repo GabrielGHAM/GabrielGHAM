@@ -1,25 +1,31 @@
-# Sobre Mim
+## Sobre Mim
+Olá! Sou  Gabriel e estou imerso no mundo da tecnologia desde os meus treze anos. Estudei teatro por dois anos para desenvolver minhas habilidades de comunicação e expressão. Sempre estive envolvido em projetos sociais e ONGs (organizações não governamentais), o que me tornou uma pessoa engajada com questões sociais. Trabalhei 6 anos com Streaming de jogos e criação de conteúdo. Atualmente trabalho e estudo áreas de meu interesse na tecnologia.
 
-👋 Olá, eu sou Gabriel Almada, um estudante de Análise e Desenvolvimento de Sistemas com um grande interesse em Engenharia de Dados. Atualmente, estou cursando um Bootcamp de Engenharia de Dados para aprimorar minhas habilidades e conhecimentos na área.
+## Experiência Profissional
 
-## Habilidades
+Tenho trabalhado em projetos autônomos como "freelancer", projetos em que trabalhei com diversas stacks em diferentes áreas, focando em Desenvolvimento e Engenharia de Dados.
 
-💻 Tenho habilidades em NodeJS, onde criei Chatbot's para telegram, e em Python, onde faço automações de extração de dados, também tenho expêriencia em bancos de dados utilizando Mysql e MongoDB, PowerBI para visualização de dados e dashboards. Também utilizo o GIT para versionamento dos meus projetos.
+## Proficiência em Idiomas
 
-## Projetos
+Tenho um nível intermediário avançado de inglês comprovado e certificado, com boas habilidades de escrita, leitura e comunicação verbal.
 
-🚀 Em um projeto pago autônomo (freela), o ComproMilhasBot, desenvolvi um Bot para um grupo com 400 pessoas onde é responsável pela padronização de compras, armazenamento de dados e estatísticas e gerenciamento de perfis dos membros.
-Também faço Raspagem de dados (WebScrapping) e extração de dados com Python. Além disso, estou sempre desenvolvendo algo para aprendizado.
-(caso queira ver meus projetos privados, me mande um email que enviarei exemplos).
+## Foco Atual
 
-## Objetivos
+Meu foco são nas  áreas relacionadas de desenvolvimento Back-end e engenharia de dados.
 
-🎯 Meu objetivo principal é me tornar um engenheiro de dados, que é minha área de interesse e único foco.
+## Tecnologias
 
-## Contaos
+Adquiri conhecimento e experiência trabalhando com as seguintes tecnologias:
 
-🐶  Email: GabrielGHAM@gmail.com
-     LinkedIn : https://www.linkedin.com/in/gaalmada/
-    
+Python | NodeJS
+SQL | DOCKER
+GIT | ETL/ELT
+MongoDB | AWS
+SonarQube | Github Actions
+CI/CD | Testes Unity
+PowerBI | Ubuntu
 
-Seja bem-vindo ao meu Github! 
+
+## Informações de Contato
+
+e-mail: Gabrielgham@gmail.com.
