@@ -17,13 +17,12 @@ Meu foco são nas  áreas relacionadas de desenvolvimento Back-end e engenharia 
 
 Adquiri conhecimento e experiência trabalhando com as seguintes tecnologias:
 
-Python | NodeJS
+Python | Azure Data Factory
 SQL | DOCKER
-GIT | ETL/ELT
-MongoDB | AWS
-SonarQube | Github Actions
-CI/CD | Testes Unity
-PowerBI | Ubuntu
+SSIS | SSAS
+SnowFlake | Power BI
+SonarQube | ETL/ELT
+
 
 
 ## Informações de Contato
